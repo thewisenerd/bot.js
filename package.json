@@ -1,0 +1,13 @@
+{
+  "name": "js-bot",
+  "version": "0.0.1",
+  "dependencies": {
+    "irc": ">= 0.5.0"
+  },
+  "author": "thewisenerd <thewisenerd@protonmail.com>",
+  "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thewisenerd/js-bot.git"
+  }
+}
