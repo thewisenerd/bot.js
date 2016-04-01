@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "irc": ">= 0.5.0",
-    "underscore": ">= 1.8.3"
+    "underscore": ">= 1.8.3",
+    "uglify-js": ">= 2.6.2"
   },
   "author": "thewisenerd <thewisenerd@protonmail.com>",
   "license": "GPLv3",
